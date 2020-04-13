@@ -2,7 +2,7 @@
 
 Python logging isn't easy. When I was learning python, I made many attempts to use logging in my applications. Usually I would end up frustrated and thinking that setting everything up correctly wasn't worth the hassle. It's only when I started building larger applications and logging became a neccessity, that I finally figured out what was going on. Learning to use python logging is rather like learning to ride a bicycle. It's difficult  to start with, but once it clicks, it's something you'll never forget.
 
-In this post is a step-by-step guide into the world of python logging. By the end of this guide, you should also have had that "click" moment and will be able to use python logging effectively in your application development.
+This post is a step-by-step guide into the world of python logging. By the end of this guide, you should also have had that "click" moment and will be able to use python logging effectively in your application development.
 
 This notebook is the code version of an [article on my website](https://awaywithideas.com/python-logging-a-practical-guide/) and is part of a series on [python development fundamentals](https://awaywithideas.com/python-development-fundamentals/). Feel free to check out the other articles of the series, or leave me a comment on the [web version](https://awaywithideas.com/the-optimal-python-project-structure/) of this guide.
 
